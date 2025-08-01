@@ -42,7 +42,7 @@ An interactive dashboard built in Excel using:
 - Slicers for platform, month, sentiment  
 - Custom charts (donut, bar, line, barometer)
 
-‼️ See [Excel Dashboard](Social%20Media%20Engagement.xlsx)
+‼️ See [Excel Dashboard](Dashboard_Screenshot.jpg)
 
 ---
 
