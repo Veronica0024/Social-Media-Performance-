@@ -50,12 +50,11 @@ An interactive dashboard built in Excel using:
 
 | Metric                     | Top Result        |
 |---------------------------|-------------------|
-| Best Day & Time Block     | Thursday, Morning |
+| Best Day & Time Block     | Friday, Nights    |
 | Best Performing Platform  | Facebook          |
 | Top Month                 | January           |
 | Most Engaging Sentiment   | Negative          |
-
-(Results adjust dynamically using slicers in Excel)
+| Typography                | Polls             |
 
 ---
 
@@ -85,11 +84,5 @@ The dataset includes:
 - Fully automate updates with Power Query & live SQL connections  
 - Integrate with Power BI for web-based dashboards  
 - Expand to cross-year or ad campaign-level analysis
-
----
-
-## 📬 Contact
-
-For any questions or collaboration ideas, feel free to reach out or open an issue!
 
 
