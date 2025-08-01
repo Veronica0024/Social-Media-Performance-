@@ -31,18 +31,18 @@ Queries were written and run using **DBeaver**. Here are a few key examples:
 - Sentiment category analysis  
 - Monthly engagement trends  
 
-📄 See [`sql/analysis_queries.sql`](sql/analysis_queries.sql) for the full list.
+📄 See [SQL Script](Script.sql) for the full list.
 
 ---
 
-## 📊 Excel Dashboard
+##  Excel Dashboard
 
 An interactive dashboard built in Excel using:
 - Pivot tables  
 - Slicers for platform, month, sentiment  
 - Custom charts (donut, bar, line, barometer)
 
-![Dashboard Overview](images/dashboard.jpg)
+‼️ See [Excel Dashboard](Social%20Media%20Engagement.xlsx)
 
 ---
 
